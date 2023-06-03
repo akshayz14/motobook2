@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+    <color name="white_10">#1AFFFFFF</color>
+    <color name="white_60">#99FFFFFF</color>
+
+
+
+    <!--Secondary Colors-->
+    <color name="raspberry">#DF1E5B</color>
+    <color name="navy_blue">#1E2640</color>
+    <color name="yellow">#FAB73B</color>
+    <color name="yellow_10">#FBF7EC</color>
+    <color name="green">#17B31B</color>
+    <color name="green_dark">#18a018</color>
+
+    <color name="green_10">#1A17B31B</color>
+    <color name="red">#E50B20</color>
+    <color name="red_dark">#cd0a1d</color>
+    <color name="red_10">#1AE50B20</color>
+    <color name="red_dark_ripple">#950311</color>
+
+
+
+    <color name="black_80_trans">#CC000000</color>
+    <color name="blackTranslucent19">#40000000</color>
+    <color name="redDark">#E00002</color>
+    <color name="marketing_color_1">#7209b7</color>
+    <color name="marketing_color_2">#1e3557</color>
+    <color name="marketing_color_3">#00af87</color>
+    <color name="marketing_color_4">#fb7948</color>
+
+    <color name="warning_dark">#e55f00</color>
+    <color name="success_dark">#00a300</color>
+    <color name="danger_dark">#e00004</color>
+    <color name="transparent">#00000000</color>
+    <color name="colorWhiteTransNew">#66ffffff</color>
+    <color name="btn_primary_disabled">#66146eb4</color>
+    <color name="grey_dark_2">#353535</color>
+    <color name="otp_background">#e7f0f6</color>
+
+    <color name="domain_error">#1AFAB73B</color>
+    <color name="ratingGoldenColor">#fab73b</color>
+    <!--black-->
+    <color name="black_10_opacity">#1A000000</color>
+    <color name="black_10">#1A181E</color>
+    <color name="black_30">#4D4D4D</color>
+    <color name="black_50">#808080</color>
+    <color name="black_60">#999999</color>
+    <color name="black_70">#B2B2B2</color>
+    <color name="black_80">#CCCCCC</color>
+    <color name="black_85">#D9D9D9</color>
+    <color name="black_90">#E6E6E6</color>
+    <color name="black_95">#F2F2F2</color>
+    <color name="black_98">#FAFAFA</color>
+    <color name="bg_color">#F5F5F5</color>
+    <color name="bg_color_2">#E5E5E5</color>
+    <color name="white_15">#26FFFFFF</color>
+    <color name="white_10_opacity">#1AFFFFFF</color>
+
+
+
+    <color name="black_70_transparent_75">#BF000000</color>
+    <!--Hover Colors-->
+    <color name="blue_h">#115F9C</color>
+    <color name="orange_h">#D4671C</color>
+
+    <color name="green_h">#149917</color>
+    <color name="red_h">#CC0A1D</color>
+    <color name="black_h">@color/black_30</color>
+
+    <color name="dusky_rose">#c05b87</color>
+
+
+    <color name="colorSolidOrangePaymentTag">#ee741f</color>
+    <color name="colorTranslucentOrangePaymentTag">#26ee741f</color>
+
+    <color name="colorSolidGreenPaymentTag">#17b31b</color>
+    <color name="colorTranslucentGreenPaymentTag">#2617b31b</color>
+
+    <color name="red_FF5A52">#FF5A52</color>
+    <color name="yellow_E6C029">#E6C029</color>
+    <color name="green_53C22B">#53C22B</color>
+
+
+    <color name="colorSolidRaspberryPaymentTag">#DF1E5B</color>
+    <color name="colorTranslucentRaspberryPaymentTag">#26DF1E5B</color>
+
+    <color name="cardShadow">#99000000</color>
+    <color name="whiteEditTextHint">#ccffffff</color>
+    <color name="cardColourViolet">#635BFF</color>
+    <color name="orange_10">#1aee741f</color>
+    <color name="brown_grey_two">#989898</color>
+</resources>
