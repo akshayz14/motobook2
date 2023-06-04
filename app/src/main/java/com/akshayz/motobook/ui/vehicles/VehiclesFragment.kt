@@ -18,13 +18,4 @@ class VehiclesFragment : Fragment() {
         return inflater.inflate(R.layout.fragment_vehicles, container, false)
     }
 
-    companion object {
-        @JvmStatic
-        fun newInstance(param1: String, param2: String) =
-            VehiclesFragment().apply {
-                arguments = Bundle().apply {
-
-                }
-            }
-    }
 }
