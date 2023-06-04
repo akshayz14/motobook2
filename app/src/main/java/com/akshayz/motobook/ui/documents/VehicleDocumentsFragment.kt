@@ -8,7 +8,7 @@ import android.view.ViewGroup
 import com.akshayz.motobook.R
 
 
-class DocumentsFragment : Fragment() {
+class VehicleDocumentsFragment : Fragment() {
 
 
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -23,13 +23,13 @@ class DocumentsFragment : Fragment() {
         savedInstanceState: Bundle?
     ): View? {
         // Inflate the layout for this fragment
-        return inflater.inflate(R.layout.fragment_documents, container, false)
+        return inflater.inflate(R.layout.fragment_vehicle_documents, container, false)
     }
 
     companion object {
         @JvmStatic
         fun newInstance(param1: String, param2: String) =
-            DocumentsFragment().apply {
+            VehicleDocumentsFragment().apply {
                 arguments = Bundle().apply {
 
                 }

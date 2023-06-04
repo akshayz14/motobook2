@@ -38,6 +38,6 @@
 
     <fragment
         android:id="@+id/documentsFragment"
-        android:name="com.akshayz.motobook.ui.documents.DocumentsFragment"
+        android:name="com.akshayz.motobook.ui.documents.VehicleDocumentsFragment"
         android:label="DocumentsFragment" />
 </navigation>
